@@ -8,7 +8,7 @@ public class ConnectionFactory {
 	private static Connection con = null;
 
 	private static String url = "jdbc:mysql://31.220.104.175:3306/u517145271_poker??autoReconnect=true";
-	private static String usuario = "u517145271_root";
+	private static String usuario = "****";
 	private static String senha = "*****";
         
         
